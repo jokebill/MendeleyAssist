@@ -1,0 +1,5 @@
+# For ubuntu/Mac:
+pyinstaller --distpath=../bin --clean -F --name=MendeleyAssist gui.py
+
+## For windows:
+pyinstaller --clean -F --name=MendeleyAssist -w --icon=..\res\mendeleyicon.ico gui.py

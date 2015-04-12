@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Mendeley Assistant
+Exec=/media/zane/local_data/Dropbox/Mendeley/Assistant/bin/MendeleyAssist
+Path=/media/zane/local_data/Dropbox/Mendeley/Assistant/bin
+Icon=/media/zane/local_data/Dropbox/Mendeley/Assistant/res/mendeleyicon.ico
+Terminal=false
+Categories=Application;
